@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "nT3gUVL+DChG5KNa5TIAP5TTbI+QvHXpI3uNkJCszeaSSbuuEr+Fk6tgsda1w1/q+DqF5U41v+S8yyVBFR8uiQ==",
+  "success": true,
+  "projectFilePath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\CameraApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cgvak\\.nuget\\packages\\bottomsheetxf\\1.1.0\\bottomsheetxf.1.1.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\firebasedatabase.net\\4.0.4\\firebasedatabase.net.4.0.4.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\firebasestorage.net\\1.0.3\\firebasestorage.net.1.0.3.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512",
+    "C:\\Users\\cgvak\\.nuget\\packages\\xamarin.forms.pancakeview\\2.0.1.698\\xamarin.forms.pancakeview.2.0.1.698.nupkg.sha512"
+  ],
+  "logs": []
+}

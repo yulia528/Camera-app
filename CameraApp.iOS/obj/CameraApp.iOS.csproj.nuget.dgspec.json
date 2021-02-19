@@ -1,0 +1,165 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\CameraApp.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\CameraApp.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\CameraApp.iOS.csproj",
+        "projectName": "CameraApp.iOS",
+        "projectPath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\CameraApp.iOS.csproj",
+        "packagesPath": "C:\\Users\\cgvak\\.nuget\\packages\\",
+        "outputPath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cgvak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\CameraApp.csproj": {
+                "projectPath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\CameraApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.495, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[2.0.1.698, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\CameraApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\CameraApp.csproj",
+        "projectName": "CameraApp",
+        "projectPath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\CameraApp.csproj",
+        "packagesPath": "C:\\Users\\cgvak\\.nuget\\packages\\",
+        "outputPath": "D:\\PersonalLearning\\latestFreelance\\cameraApp\\CameraApp\\CameraApp\\CameraApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cgvak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "BottomSheetXF": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            },
+            "FirebaseStorage.net": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.495, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[2.0.1.698, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
